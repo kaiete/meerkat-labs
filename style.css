@@ -1,9 +1,22 @@
 body {
-  font-family: Helvetica, sans-serif;
+  font-family: Ubuntu, system-ui, Arial, sans-serif;
   text-align: center;
   align-items: center;
 }
 p {
-  color: gray;
-  font-style: italic;
+  color: black;
+  font-style: inherit;
+}
+h1 {
+  font-weight: bolder;
+  text-shadow: 20px 6px lightgray;
+}
+hr {
+  width: 30%;
+  align-self: center;
+}
+.center {
+  align-self: center;
+  align-content: center;
+  align-items: center;
 }
