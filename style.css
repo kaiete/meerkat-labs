@@ -20,3 +20,7 @@ hr {
   align-content: center;
   align-items: center;
 }
+#note {
+  font-style: italic;
+  color: gray;
+}
